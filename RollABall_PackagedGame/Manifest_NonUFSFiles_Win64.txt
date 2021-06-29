@@ -1,0 +1,17 @@
+Engine/Binaries/Win64/UnrealGame-Win64-Shipping.exe	2021-06-28T05:59:31.442Z
+Engine/Binaries/Win64/turbojpeg.dll	2021-06-28T05:56:17.557Z
+Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2021-05-29T09:13:20.793Z
+Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2021-05-29T09:01:14.488Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2021-05-29T08:59:37.670Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2021-05-29T09:01:14.493Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2021-05-29T09:02:36.135Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2021-05-29T09:02:36.136Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2021-05-29T09:01:11.798Z
+Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll	2021-05-29T09:01:14.526Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.dll	2021-05-29T09:01:35.159Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.dll	2021-05-29T09:01:35.174Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3_x64.dll	2021-05-29T09:01:30.812Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Cooking_x64.dll	2021-05-29T09:01:33.960Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Common_x64.dll	2021-05-29T09:01:32.278Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2021-05-29T09:02:37.549Z
+P01_IntroToUnreal.exe	2021-06-29T22:27:19.839Z
